@@ -8,5 +8,7 @@ relevant results.
 
 This Lab will use stationary spheres in a wind tunnel where the force on on the 20MM sphere them is too 
 small to measure.Instead for the experiments larger spheres will be used where the principles of similarity,
-and dimensionless numbers will be used to obtain the values for the 20mm lead sphere. Windtunnel theory will 
-also be used in the Pyton code caculations to reduce the amount of uncertanities in the data.
+and dimensionless numbers will be used to obtain the values for the 20mm lead sphere. caculations was coded
+in python where Windtunnel theory was concidered to reduce the amount of uncertanities in the data.
+
+A report whith graphs was produced describing the results from the windtunnel lab.  
